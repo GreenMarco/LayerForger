@@ -143,7 +143,7 @@ def quitar_placeholder_generico(entry, texto):
 # Interfaz
 root = tk.Tk()
 root.title("LayerForger")
-root.iconbitmap("icono.ico")
+root.iconbitmap("icon.ico")
 root.update_idletasks()  # Forza a que se midan todos los widgets visibles
 root.minsize(root.winfo_reqwidth(), root.winfo_reqheight())
 
